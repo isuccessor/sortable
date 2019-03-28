@@ -1,0 +1,24 @@
+
+.wrap-input {
+	position: relative;
+	padding-bottom: 10px;
+	width: 173px;
+	height: 20px;
+}
+
+.input-mask {
+	position: absolute;
+	width: 173px;
+	height: 20px;
+	background: #e2e2e2;
+	top: 0px;
+	opacity: 0;
+	cursor: pointer;
+}
+
+.form {
+	width: 200px;
+	height: 500px; 
+}
+
+
